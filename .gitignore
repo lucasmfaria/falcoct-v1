@@ -1,3 +1,7 @@
+# Assets
+assets/optimized/
+assets/original/
+
 # Logs
 logs
 *.log
