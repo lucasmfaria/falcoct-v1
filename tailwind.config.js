@@ -18,7 +18,7 @@ export default {
       },
       fontFamily: {
         sans: ['Montserrat', 'sans-serif'],
-        display: ['Orbitron', 'sans-serif'],
+        display: ['Black Ops One', 'Orbitron', 'sans-serif'],
       }
     },
   },
